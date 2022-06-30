@@ -1,9 +1,9 @@
 ### Passo-a-Passo
-1. [Baixar o GIT] (https://git-scm.com/downloads) e realizar a instalacao;
+1. [Baixar o GIT](https://git-scm.com/downloads) e realizar a instalacao;
 
 2. Fica pressuposto que voce ja possua uma conta no GitHub;
 
-3. [Criar uma chave SSH;] (https://docs.github.com/articles/generating-an-ssh-key/) 
+3. [Criar uma chave SSH;](https://docs.github.com/articles/generating-an-ssh-key/) 
 
 4. Abrir a pasta de usuarios, entrar no usuario local e criar uma pasta onde sera realizados suas funcoes no GIT/GitHub;
 
